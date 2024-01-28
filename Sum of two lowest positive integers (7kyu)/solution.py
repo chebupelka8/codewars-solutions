@@ -1,0 +1,1 @@
+sum_two_smallest_numbers = lambda array: sorted(array)[0] + sorted(array)[1]

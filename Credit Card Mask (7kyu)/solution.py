@@ -1,0 +1,1 @@
+maskify = lambda string: "#" * (len(string) - 4) + string[-4:]
