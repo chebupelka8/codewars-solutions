@@ -1,0 +1,1 @@
+to_jaden_case = lambda string: " ".join([I.capitalize() for I in string.split()])

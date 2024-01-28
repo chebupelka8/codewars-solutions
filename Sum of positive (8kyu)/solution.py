@@ -1,0 +1,1 @@
+positive_sum = lambda array: sum(I for I in array if I > 0)
